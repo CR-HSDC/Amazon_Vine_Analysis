@@ -14,16 +14,17 @@ The findings of this analysis are discussed below.
 **_Figure 2_:** non-Vine 5-star reviews percentage.
 
 **How many Vine reviews and non-Vine reviews were there?**
+
 Per ***Figure 1***, there were 94 Vine reviews and 40,471 non-Vine reviews, for the video games dataset.
 
 **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars**
+
 Per  ***Figure 1***, there were 48 5-Star Vine reviews and 15,663 non-Vine 5-Star reviews, for the video games dataset.
 
 **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+
 Per  ***Figure 1*** and **Figure 2**, 51.1% percent of Vine reviews were 5-star rating and 38.7% percent of non-Vine reviews were 5-star rating, for the video games dataset.
 
-
- 
 
 ## Summary 
 
