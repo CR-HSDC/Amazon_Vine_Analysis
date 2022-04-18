@@ -31,7 +31,7 @@ A positivity bias is observed for the Vine reviews. There is a difference of 12.
 
 An additional analysis to support the claim of positivity bias, could be to analyze the scoring trends in general. Starting with the overall average score for both categories, it could be assessed if the overall score is higher for the Paid reviews. Additionally, the standard deviation for both averages could be assessed to see if there is lesser variability in the Paid reviews group, thus a higher inclincation towards positive reviews, this could be indicated by a lower standard deviation than for the non-paid group.
 
-Additionally, statistics could be assessed at each discrete score point (e.g. 1 star, 1.5 star etc..) to examine if there bias is any particular score rating.
+Additionally, statistics could be assessed at each discrete score point (e.g. 1 star, 1.5 star etc..) to examine if there a stronger bias for specfic scores.
 
 
 
